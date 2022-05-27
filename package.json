@@ -1,14 +1,14 @@
 {
-    "name": "@xbs/wx-query-locales",
+    "name": "@xbs/wx-kanban-locales",
     "version": "0.1.0",
-    "description": "Locales for WX Query widget",
+    "description": "Locales for WX Kanban widget",
     "main": "index.js",
     "scripts": {
         "lint": "yarn eslint ./ --ext .ts,.js"
     },
     "keywords": [
         "wx",
-        "query",
+        "kanban",
         "locales"
     ],
     "author": "",
