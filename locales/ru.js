@@ -8,7 +8,6 @@ export default {
 		"Type": "Тип",
 		"Start Date": "Дата выполнения",
 		"End Date": "Дата окончания",
-
 		"Result": "Результат",
 		"No results": "Ничего не найдено",
 		"Search": "Поиск",
@@ -18,13 +17,11 @@ export default {
 		"Add new card": "Добавить новую карточку",
 		"Edit card": "Редактировать карточку",
 		"Edit": "Редактировать",
-
 		"Everywhere": "Всюду",
 		"Label": "Заголовок",
 		"Status": "Статус",
 		"Color": "Цвет",
 		"Date": "Дата",
-
 		"Untitled": "Без названия",
 		"Rename": "Переименовать",
 		"Move up": "Переместить вверх",

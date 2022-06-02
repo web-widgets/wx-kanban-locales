@@ -8,7 +8,6 @@ export default {
 		"Type": "Type",
 		"Start date": "Start date",
 		"End date": "End date",
-
 		"Result": "Result",
 		"No results": "No results",
 		"Search": "Search",
@@ -18,13 +17,11 @@ export default {
 		"Add new card": "Add new card",
 		"Edit card": "Edit card",
 		"Edit": "Edit",
-
 		"Everywhere": "Everywhere",
 		"Label": "Label",
 		"Status": "Status",
 		"Color": "Color",
 		"Date": "Date",
-
 		"Untitled": "Untitled",
 		"Rename": "Rename",
 		"Move up": "Move up",

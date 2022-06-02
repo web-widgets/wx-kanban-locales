@@ -8,7 +8,6 @@ export default {
 		"Type": "类型",
 		"Start Date": "开始日期",
 		"End Date": "结束日期",
-
 		"Result": "结果",
 		"No results": "没有结果",
 		"Search": "搜索",
@@ -18,13 +17,11 @@ export default {
 		"Add new card": "添加新卡",
 		"Edit card": "编辑卡片",
 		"Edit": "编辑",
-
 		"Everywhere": "无处不在",
 		"Label": "标签",
 		"Status": "状态",
 		"Color": "颜色",
 		"Date": "日期",
-
 		"Untitled": "无题",
 		"Rename": "重命名",
 		"Move up": "上移",
@@ -32,7 +29,6 @@ export default {
 		"Move left": "左移",
 		"Move right": "右移",
 		"Sort": "排序",
-
 		"Label (a-z)": "标签 (a-z)",
 		"Label (z-a)": "标签 (z-a)",
 		"Description (a-z)": "描述 (a-z)",
