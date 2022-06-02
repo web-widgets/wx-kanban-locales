@@ -1,4 +1,4 @@
-export const pt = {
+export default {
     kanban: {
         "Save": "Salvar",
         "Close": "Fechar",
