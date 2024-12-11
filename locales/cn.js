@@ -51,6 +51,8 @@ export default {
 		"Link task": "链接任务",
 		"Select a relation": "选择一个关系",
 		"Select a task": "选择任务",
+		Send: "发送",
+		"No comments yet": "还没有评论",
 		"Would you like to delete this card?": "要删除这张卡吗？",
 	},
 };

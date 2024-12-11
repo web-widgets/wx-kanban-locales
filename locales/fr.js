@@ -52,6 +52,8 @@ export default {
 		"Link task": "Lier la tâche",
 		"Select a relation": "Sélectionner une relation",
 		"Select a task": "Sélectionner une tâche",
+		Send: "Envoyer",
+		"No comments yet": "Pas encore de commentaires",
 		"Would you like to delete this card?":
 			"Souhaitez-vous supprimer cette carte?",
 	},

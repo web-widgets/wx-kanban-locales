@@ -51,6 +51,8 @@ export default {
 		"Link task": "リンクタスク",
 		"Select a relation": "関係を選択",
 		"Select a task": "タスクを選択",
+		Send: "送信",
+		"No comments yet": "まだコメントはありません",
 		"Would you like to delete this card?": "このカードを削除しますか？",
 	},
 };

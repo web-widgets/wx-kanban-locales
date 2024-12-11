@@ -52,6 +52,8 @@ export default {
 		"Link task": "Связать задачу",
 		"Select a relation": "Выберите отношение",
 		"Select a task": "Выберите задачу",
+		Send: "Отправить",
+		"No comments yet": "Тут еще нет комментариев",
 		"Would you like to delete this card?":
 			"Вы точно хотите удалить задачу?",
 	},

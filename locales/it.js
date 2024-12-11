@@ -52,6 +52,8 @@ export default {
 		"Link task": "Collega attività",
 		"Select a relation": "Seleziona una relazione",
 		"Select a task": "Seleziona un'attività",
+		Send: "Inviare",
+		"No comments yet": "Nessun commento ancora",
 		"Would you like to delete this card?": "Vuoi eliminare questa carta?",
 	},
 };
