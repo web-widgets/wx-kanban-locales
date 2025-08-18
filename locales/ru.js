@@ -51,6 +51,7 @@ export default {
 		"Description (z-a)": "Описание (я-а)",
 		"Would you like to delete this comment?":
 			"Вы точно хотите удалить комментарий?",
+		"Add link": "Добавить ссылку",
 		Duplicate: "Дублировать",
 		"Duplicate of": "Дубликат",
 		"Relates to": "Относится к",
@@ -58,8 +59,8 @@ export default {
 		"Is required for": "Требуется для",
 		Duplicates: "Дублирует",
 		"Is duplicated by": "Дублируется",
-		"Parent for": "Родитель для",
-		"SubTask of": "Подзадача",
+		"Is parent for": "Родитель для",
+		"Is subtask of": "Подзадача",
 		Cancel: "Отмена",
 		"Link task": "Связать задачу",
 		"Select a relation": "Выберите отношение",

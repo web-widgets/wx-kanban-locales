@@ -51,6 +51,7 @@ export default {
 		"Description (z-a)": "Descrição (z-a)",
 		"Would you like to delete this comment?":
 			"Deseja excluir este comentário?",
+		"Add link": "Adicionar link",
 		Duplicate: "Duplicada",
 		"Duplicate of": "Duplicado de",
 		"Relates to": "Relaciona-se a",
@@ -58,8 +59,8 @@ export default {
 		"Is required for": "É necessário para",
 		Duplicates: "Duplicações",
 		"Is duplicated by": "É duplicado por",
-		"Parent for": "Pai de",
-		"SubTask of": "Subtarefa de",
+		"Is parent for": "Pai de",
+		"Is subtask of": "Subtarefa de",
 		Cancel: "Cancelar",
 		"Link task": "Vincular tarefa",
 		"Select a relation": "Selecione uma relação",
