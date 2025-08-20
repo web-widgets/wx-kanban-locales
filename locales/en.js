@@ -3,7 +3,6 @@ export default {
 		Save: "Save",
 		Close: "Close",
 		Delete: "Delete",
-		Name: "Name",
 		Description: "Description",
 		Type: "Type",
 		"Start date": "Start date",
@@ -69,6 +68,7 @@ export default {
 		"Select a task": "Select a task",
 
 		Send: "Send",
+		"Add a comment...": "Add a comment...",
 		"Would you like to delete this comment?":
 			"Would you like to delete this comment?",
 		"No comments yet": "No comments yet",
